@@ -19,3 +19,6 @@ https://www.youtube.com/watch?v=e7u92nPYy0M
 + Your user name or Id, you can find that on your OSU profile page in the url after the /u/
 + Your API key generated from  https://osu.ppy.sh/p/api
 + A server to host the file / you can use WinampServer for a local server! http://www.wampserver.com/en/
+
+
+### Hey, this is old, not maintained and probably outdated. (and archived)
